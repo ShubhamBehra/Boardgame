@@ -120,11 +120,11 @@
 	 <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://34.234.70.169:8081/repository/board-game/</url>
+            <url>http://34.201.93.195:8081/repository/board-game/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://34.234.70.169:8081/repository/board-game/</url>
+            <url>http://34.201.93.195:8081/repository/board-game/</url>
         </snapshotRepository>
     </distributionManagement>
 
